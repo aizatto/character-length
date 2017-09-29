@@ -30,6 +30,6 @@ GitHub doesn't work well on `920px`, but then again most sites don't.
 | [Viewing a Diff](https://github.com/aizatto/character-length/commit/bae8f00feda5b832aa6fe162460968d8eaf040a5) |                                      |                                                        |
 | `920px` width - Half of MBPr 15"                                                                              | 58                                   | 58                                                     |
 | `1280px` width - 3/4s of MBPr 5"; 1/2 of `2560px`; Decent                                                     | 82                                   | 82                                                     |
-| `1706px` width - 3/4s of `2560px`                                                                             | 115                                  | 115                                                    |
+| `1706px` width - 3/4s of `2560px`                                                                             |                                      |                                                        |
 | `1920px` width - MBPr 15"                                                                                     | 141                                  | 141                                                    |
 | `2560px` width                                                                                                |                                      |                                                        |
