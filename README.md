@@ -15,3 +15,6 @@ GitHub doesn't work well on `920px`, but then again most sites don't.
 | `2560px` width                                                                                                | 164                                  | 164                                                    |
 
 Table generated using [Tables Generator](http://www.tablesgenerator.com/markdown_tables#)
+
+Tested on:
+- MacBook Pro (15-inch, 2016)
