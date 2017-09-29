@@ -10,6 +10,13 @@ Tested on:
 
 GitHub doesn't work well on `920px`, but then again most sites don't.
 
+```css
+font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+font-size: 12px;
+height: auto;
+line-height: 20px;
+```
+
 |                                                                                                               | macOS Sierra 10.12.6 (16G29)         | macOS Sierra 10.12.6 (16G29)                           |
 |---------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------|
 |                                                                                                               | Safari Version 11.0 (12604.1.38.1.7) | Chrome Version 60.0.3112.113 (Official Build) (64-bit) |
@@ -22,6 +29,17 @@ GitHub doesn't work well on `920px`, but then again most sites don't.
 | `2560px` width                                                                                                | 164                                  | 164                                                    |
 
 # Phabricator
+
+```css
+font-family: Menlo, Consolas, Monaco, monospace;
+font-size: 11px;
+font-stretch: normal;
+font-style: normal;
+font-variant-caps: normal;
+font-weight: normal;
+height: 60px;
+line-height: 15px;
+```
 
 |                                                                                                               | macOS Sierra 10.12.6 (16G29)         | macOS Sierra 10.12.6 (16G29)                           |
 |---------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------|
