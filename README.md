@@ -1,7 +1,10 @@
 # character-length
+
 Test out character length/limit in different apps/sites.
 
-The purpose of this is to demonstrate readable characater lengths.
+The purpose of this is to demonstrate readable character lengths.
+
+Also see https://www.aizatto.com/notes/archive/displays-monitors
 
 Table generated using [Tables Generator](http://www.tablesgenerator.com/markdown_tables#)
 
@@ -24,7 +27,8 @@ This is also known as:
 | MacBook Pro 15" | 1440x900        | 720x450  | 480x300       | 360x225   | 240x150       |                  |
 | MacBook Pro 15" | 1680x1050       | 840x525  | 560x350       | 420x262.5 | 280x175       | Laptop Default   |
 | MacBook Pro 15" | 1920x1200       | 960x600  | 640x400       | 480x300   | 320x200       | My Default       |
-| 27" Display     | 2560x1440       | 1280x720 | 853.33x480    | 640x360   | 426.66x240    | External Monitor |
+| 27" Display     | 2560x1440       | 1280x720 | 853.33x480    | 640x360   | 426.66x240    |                  |
+| 34" Display     | 3440x1440       | 1720x720 | 1146.66x480   | 860x360   | 573.33x240    | External Monitor |
    
 # GitHub
 
