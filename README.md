@@ -31,6 +31,7 @@ This is also known as:
 | 34" Display     | 3440x1440 (UWQHD) | 1720x720  | 1146.66x480   | 860x360   | 573.33x240    | External Monitor    |
 | 27" Display     | 3840x2160 (4K)    | 1920x1080 | 1280x720      | 960x540   | 640x360       | Pixel Per Inch: 163 |
 | 32" Display     | 3840x2160 (4K)    | 1920x1080 | 1280x720      | 960x540   | 640x360       | Pixel Per Inch: 140 |
+| 49" Display     | 5120x1440         | 2560x720  | 1706.66x480   | 1280x360  | 853.33x240    |                     |
    
 # GitHub
 
