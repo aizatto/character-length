@@ -4,7 +4,10 @@ Test out character length/limit in different apps/sites.
 
 The purpose of this is to demonstrate readable character lengths.
 
-Also see https://www.aizatto.com/notes/archive/displays-monitors
+Also see
+
+- https://www.aizatto.com/notes/archive/displays-monitors
+- https://www.aizatto.com/engineering-code/writing-code/80-character-limit
 
 Table generated using [Tables Generator](http://www.tablesgenerator.com/markdown_tables#)
 
