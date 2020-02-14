@@ -51,9 +51,10 @@ line-height: 20px;
 | [Viewing a File](https://github.com/aizatto/character-length/blob/master/characters.txt) - Fixed Length       |                                  117 |                                                    117 |
 | [Viewing a Diff](https://github.com/aizatto/character-length/commit/bae8f00feda5b832aa6fe162460968d8eaf040a5) |                                      |                                                        |
 | `960px` width - Half of MBPr 15"; Usable but requires scrolling                                               | 58                                   | 58                                                     |
-| `1280px` width - 3/4s of MBPr 5"; 1/2 of `2560px`; Decent                                                     | 78                                   | 78                                                     |
+| `1280px` width - default for MBPr 13"; 3/4s of MBPr 5"; 1/2 of `2560px`; Decent                               | 87                                   | 87                                                     |
+| `1680px` width - max for MBPr 13"; default for MBPr 15"                                                       | 104                                  | 104                                                    |
 | `1706px` width - 3/4s of `2560px`                                                                             | 115                                  | 115                                                    |
-| `1920px` width - MBPr 15"                                                                                     | 120                                  | 120                                                    |
+| `1920px` width - max for MBPr 15"                                                                             | 120                                  | 120                                                    |
 | `2560px` width                                                                                                | 164                                  | 164                                                    |
 
 # Phabricator
