@@ -47,6 +47,7 @@ Pages to test against:
 
 - [Viewing a File](https://github.com/aizatto/character-length/blob/master/characters.txt)
 - [Viewing a Diff](https://github.com/aizatto/character-length/commit/bae8f00feda5b832aa6fe162460968d8eaf040a5)
+- [Viewing a PR](https://github.com/aizatto/character-length/pull/1) (fixed at `71` chars)
 
 ```css
 font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
