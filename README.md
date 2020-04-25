@@ -31,7 +31,9 @@ This is also known as:
 | MacBook Pro 15" | 1280x800          | 640x400   | 426.66x266.66 | 320x200   | 213.33x133.33 |                     |
 | MacBook Pro 15" | 1440x900          | 720x450   | 480x300       | 360x225   | 240x150       |                     |
 | MacBook Pro 15" | 1680x1050         | 840x525   | 560x350       | 420x262.5 | 280x175       | MacBook Pro 15" Default |
-| MacBook Pro 15" | 1920x1200         | 960x600   | 640x400       | 480x300   | 320x200       | My Default          |
+| MacBook Pro 15" | 1920x1200         | 960x600   | 640x400       | 480x300   | 320x200       |                     |
+| MacBook Pro 16" | 1792x1120         | 896x560   | 573.33x373.33 | 448x280   | 298.66x186.66 | MacBook Pro 16" Default          |
+| MacBook Pro 16" | 2048x1280         | 1024x640  | 682.66x426.66 | 512x320   | 341.33x213.33 | My Default          |
 | 27" Display     | 2560x1440         | 1280x720  | 853.33x480    | 640x360   | 426.66x240    |                     |
 | 34" Display     | 3440x1440 (UWQHD) | 1720x720  | 1146.66x480   | 860x360   | 573.33x240    |                     |
 | 38" Display     | 3840x1600         | 1920x800  | 1280x533.33   | 960x400   | 640x266       | External Monitor    |
