@@ -20,6 +20,7 @@ This is also known as:
 - row limits
 - row width
 - [characters per line](https://en.wikipedia.org/wiki/Characters_per_line)
+- print width
 
 # Display Resolutions
 
